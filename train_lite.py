@@ -1,5 +1,4 @@
 # -*- coding: UTF-8 -*-
-# encoding=utf8 
 import os
 import numpy as np
 import struct
